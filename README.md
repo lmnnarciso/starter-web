@@ -11,7 +11,7 @@ Sample website with plenty of files for demos.
 ## INTRODUCTION
 This is a simple website to understand git workflow
 
-
+nother Paragraph for introduction 
 ## PURPOSE
 
 # Deployment
