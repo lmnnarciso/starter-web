@@ -19,7 +19,7 @@ Adding purpose text
 Adding deployment text
 
 ## HOW TO CONTRIBUTE
-
+Please fork this repository
 
 
 ### Copyright
