@@ -13,8 +13,10 @@ This is a simple website to understand git workflow
 
 nother Paragraph for introduction 
 ## PURPOSE
+Adding purpose text
 
 # Deployment
+Adding deployment text
 
 ## HOW TO CONTRIBUTE
 
