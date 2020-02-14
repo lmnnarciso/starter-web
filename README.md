@@ -21,3 +21,6 @@ Adding deployment text
 ## HOW TO CONTRIBUTE
 
 
+
+### Copyright
+2020 Git Training
